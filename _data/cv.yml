@@ -21,8 +21,6 @@ cv:
         studyType: Master's
         start_date: 2025
         end_date: 2026-12
-        score: "3.84 GPA"
-        courses: "Advanced Computer Vision, Image Processing, Computer Graphics, Algorithms for Machine Learning, Artificial Intelligence, Data Mining, Data Structures & Algorithms, Software Engineering"
 
     Professional Experience:
       - company: Xometry
