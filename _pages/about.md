@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. in Computer Vision, <a href='https://www.ucf.edu/'>University of Central Florida</a>. Orlando, FL.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -23,8 +22,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student in Computer Vision at the [University of Central Florida](https://www.ucf.edu/), graduating in December 2026. I am currently a Software Engineering Intern at [Xometry](https://www.xometry.com/), where I develop AI agents on AWS Bedrock that power SEO and structured-data automation across 1,200+ pages.
+I am a Master's student in Computer Vision at the [University of Central Florida](https://www.ucf.edu/), graduating in December 2026. Currently, I am a Software Engineering Intern at [Xometry](https://www.xometry.com/), building AI agents on AWS Bedrock. My interests lie at the intersection of computer vision, large language models, and software engineering.
 
-My interests lie at the intersection of computer vision, large language models, and software engineering. I have built LiDAR perception pipelines for autonomous vehicles, fine-tuned Vision Transformers for sign-language recognition, and designed LLM-powered agent systems end to end. My recent work includes research on user profiling with large language models and a survey of parameter-efficient fine-tuning methods for large language and vision models.
+<!-- TODO: add your Google Scholar profile URL as the first link below -->
 
-Previously, I was a Software Engineering Fellow at the Bloomberg Tech Lab, a software developer intern at Prodisphere, and a software engineer intern at UrbanITY Lab. You can find a selection of my work on the [projects](/projects/) page and my full background under [experience](/experience/).
+**[GitHub](https://github.com/hafijurraman) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/hafijur-raman) &nbsp;&nbsp; [Email](mailto:hafijurraman26st@gmail.com) &nbsp;&nbsp; [CV](/assets/pdf/HafijurRaman-Resume.pdf)**
