@@ -1,6 +1,6 @@
 cv:
   name: Hafijur Raman
-  label: Software Engineer & Computer Vision Graduate Student
+  label: Computer Vision Graduate Student
   email: hafijurraman26st@gmail.com
   location: Orlando, FL
   image: ""
@@ -22,7 +22,7 @@ cv:
         start_date: 2025
         end_date: 2026-12
 
-    Professional Experience:
+    Experience:
       - company: Xometry
         position: Software Engineering Intern
         location: Waltham, MA
