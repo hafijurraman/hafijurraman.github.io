@@ -5,5 +5,5 @@ cv_pdf: /assets/pdf/HafijurRaman-Resume.pdf # path to your CV PDF file
 email: hafijurraman26st@gmail.com # your email address
 github_username: hafijurraman # your GitHub user name
 linkedin_username: hafijur-raman # your LinkedIn user name
-# scholar_userid: # TODO: add your Google Scholar ID (the value of the `user=` parameter in your profile URL)
+scholar_userid: ZQN8YewAAAAJ # your Google Scholar ID (the value of the `user=` parameter in your profile URL)
 rss_icon: false # set to true to show the RSS icon
