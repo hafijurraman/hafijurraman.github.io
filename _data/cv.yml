@@ -23,6 +23,15 @@ cv:
         end_date: 2026-12
 
     Experience:
+      - company: Institute for Simulation and Training (IST)
+        position: Computer Vision Engineer / Research Assistant
+        location: Orlando, FL
+        start_date: 2026-09-04
+        end_date: present
+        highlights:
+          - Conducting research and prototyping for embedded computer vision and visual navigation systems, with a focus on robust perception and multi-sensor localization.
+          - "Tech stack: ROS 2, PyTorch, XFeat, visual-inertial SLAM, ONNX Runtime, TensorRT, and NVIDIA Jetson."
+
       - company: Xometry
         position: Software Engineering Intern
         location: Waltham, MA

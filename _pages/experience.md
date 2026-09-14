@@ -7,6 +7,14 @@ nav: true
 nav_order: 1
 ---
 
+### Computer Vision Engineer / Research Assistant — Institute for Simulation and Training (IST)
+
+<p class="text-muted">Orlando, FL · September 4, 2026 – Present</p>
+
+Conducting research and prototyping for embedded computer vision and visual navigation systems, with a focus on robust perception and multi-sensor localization. **Tech stack:** ROS 2, PyTorch, XFeat, visual-inertial SLAM, ONNX Runtime, TensorRT, and NVIDIA Jetson.
+
+---
+
 ### Software Engineering Intern — Xometry
 
 <p class="text-muted">Waltham, MA · June 2026 – Present</p>
