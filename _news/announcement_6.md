@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Institute for Simulation and Training (IST) as a Computer Vision Engineer / Research Assistant, working on embedded computer vision and visual navigation research.
+Joined the Institute for Simulation & Training - UCF as a Computer Vision Research Engineer, focusing on Visual SLAM & Sensor Fusion, Embedded Computer Vision Development, Research & Development.

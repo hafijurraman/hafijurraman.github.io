@@ -7,11 +7,11 @@ nav: true
 nav_order: 1
 ---
 
-### Computer Vision Engineer / Research Assistant — Institute for Simulation and Training (IST)
+### Computer Vision Research Engineer — Institute for Simulation & Training - UCF
 
-<p class="text-muted">Orlando, FL · September 4, 2026 – Present</p>
+<p class="text-muted">Orlando, Florida, United States · September 2026 – Present</p>
 
-Conducting research and prototyping for embedded computer vision and visual navigation systems, with a focus on robust perception and multi-sensor localization. **Tech stack:** ROS 2, PyTorch, XFeat, visual-inertial SLAM, ONNX Runtime, TensorRT, and NVIDIA Jetson.
+Visual SLAM & Sensor Fusion, Embedded Computer Vision Development, Research & Development.
 
 ---
 
