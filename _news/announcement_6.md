@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Institute for Simulation & Training - UCF as a Computer Vision Research Engineer, focusing on Visual SLAM & Sensor Fusion, Embedded Computer Vision Development, Research & Development.
+Joined the [Institute for Simulation & Training - UCF](https://www.ist.ucf.edu/) as a Computer Vision Research Engineer, focusing on Visual SLAM & Sensor Fusion, Embedded Computer Vision Development, Research & Development.
