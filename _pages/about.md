@@ -22,6 +22,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student in Computer Vision at the [University of Central Florida](https://www.ucf.edu/), graduating in December 2026. Currently, I am a Software Engineering Intern at [Xometry](https://www.xometry.com/), building AI agents on AWS Bedrock. My interests lie at the intersection of computer vision, large language models, and software engineering.
+I am a Master's student in Computer Vision at the [University of Central Florida](https://www.ucf.edu/), graduating in December 2026. I currently work as a Computer Vision Research Engineer at the [Institute for Simulation & Training – UCF](https://www.ist.ucf.edu/) and as a Software Engineering Intern at [Xometry](https://www.xometry.com/), focusing on visual SLAM, AI agents, LLMs, and software engineering.
 
 **[GitHub](https://github.com/hafijurraman) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/hafijur-raman) &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=ZQN8YewAAAAJ&hl=en) &nbsp;&nbsp; [Email](mailto:hafijurraman26st@gmail.com) &nbsp;&nbsp; [CV](/assets/pdf/HafijurRaman-Resume.pdf)**
