@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A selection of AI, computer vision, and full-stack projects.
+description: Selected computer vision, AI agent, machine learning, and software engineering projects by Hafijur Raman.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

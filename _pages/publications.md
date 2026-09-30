@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications in reversed chronological order.
+description: Research publications by Hafijur Raman in computer vision, large language models, and efficient multimodal AI.
 nav: true
 nav_order: 3
 ---

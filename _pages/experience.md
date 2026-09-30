@@ -2,7 +2,7 @@
 layout: page
 title: experience
 permalink: /experience/
-description: Professional experience in software engineering, AI agents, and computer vision.
+description: Hafijur Raman's experience in computer vision research, visual SLAM, sensor fusion, AI agents, and software engineering.
 nav: true
 nav_order: 1
 ---

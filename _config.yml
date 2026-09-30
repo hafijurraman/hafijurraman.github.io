@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Hafijur Raman
 first_name: Hafijur
 middle_name:
 last_name: Raman
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hafijur Raman's personal homepage. Master's student in Computer Vision at the University of Central Florida, working on AI agents, computer vision, and large language models.
+  Hafijur Raman is a Computer Vision Research Engineer at UCF working on visual SLAM, sensor fusion, AI agents, and LLMs.
 footer_text: >
   <style>html { --global-theme-color: #4a7ab5 !important; --global-hover-color: #3c639a !important; } html[data-theme="dark"] { --global-theme-color: #7aa5dc !important; --global-hover-color: #94b8e6 !important; }</style>
-keywords: hafijur raman, computer vision, machine learning, software engineering, ai agents, ucf # add your own keywords or leave empty
+keywords: hafijur raman, computer vision research engineer, visual SLAM, sensor fusion, embedded computer vision, AI agents, LLMs, UCF
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -96,9 +96,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: false # A more complete ProfilePage schema is embedded on the homepage
+og_image: /assets/img/hafijurraman.jpg # Site-wide social preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -159,17 +159,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -186,7 +176,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
@@ -194,7 +184,7 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -291,6 +281,27 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: posts
+    values:
+      published: false
+      sitemap: false
+  - scope:
+      path: ""
+      type: news
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: books
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: teachings
+    values:
+      sitemap: false
 
 sass:
   style: compressed
@@ -323,13 +334,13 @@ terser:
 
 jekyll-archives:
   posts:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+    enabled: []
     permalinks:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
   books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+    enabled: []
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
